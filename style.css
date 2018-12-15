@@ -2,3 +2,10 @@ body {
   background-color: #e6ffe6;
   text-align: center;
 }
+
+#menu {
+    background-color: #bfbfbf
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
